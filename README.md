@@ -24,10 +24,11 @@ Here are a few projects I've been working on recently:
 - **[Square Eyes App](https://square-eyes.vercel.app/index.html)**: A video streaming website with multi-functional services.
 
 ## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Instagram](https://www.instagram.com/explore_with_mr_and_mrs/)
-- [Facebook](https://www.facebook.com/yourprofile)
-- [YouTube](https://www.youtube.com/yourchannel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullaalharun)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/explore_with_mr_and_mrs)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/44mehedi)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/ExplorewithMrandMrs)
+
 
 ---
 
