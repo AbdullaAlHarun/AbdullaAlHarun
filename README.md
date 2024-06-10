@@ -48,7 +48,6 @@ Here are a few projects I've been working on recently:
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/44mehedi)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/ExplorewithMrandMrs)
 
-
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdullaAlHarun&show_icons=true&theme=radical)
